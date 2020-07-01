@@ -7,6 +7,6 @@
 		<title>hello</title>
 	</head>
 	<body>
-	Hello, world!
+	Hello, world ! and Japan !
 	</body>
 </html>
